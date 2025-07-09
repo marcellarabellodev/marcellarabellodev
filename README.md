@@ -26,6 +26,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### 💡 Projetos Destacados
 Confira alguns dos meus projetos que estão no GitHub:
+- EcoTerreiro - https://github.com/marcellarabellodev/EcoTerreiro
+- EcoTerreiro-Backend - https://github.com/marcellarabellodev/EcoTerreiro-BackEnd
 - Documentar e Testar APIs RESTful - https://github.com/marcellarabellodev/documentar_testar_apis_restful
 - Portfólio - https://github.com/marcellarabellodev/portfolio
 
